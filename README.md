@@ -11,7 +11,9 @@
 💾 **Databases:** MongoDB  
 
 ## 📊 **GitHub Stats**
-*GitHub statistics will appear here when added to your profile.*
+🟦 **Most used language:** C++  
+
+*GitHub statistics (overall, top‑langs, streak) will appear here when added to your profile.*
 
 ## 📫 **Connect with me**
 [LinkedIn](https://www.linkedin.com/in/anshika-gupta-a7a87b380/)
