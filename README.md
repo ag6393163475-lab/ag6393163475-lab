@@ -1,7 +1,8 @@
 # 👋 Hey there! I’m **Anshika Gupta**
 
 ## 🚀 **About Me**
-💻 Full‑stack developer & C++ student @ Mirai School of Technology  
+💻 Full‑stack developer & C++ 
+👩‍🎓student at @ Mirai School of Technology  
 🌐 Passionate about building modern web apps, low‑level systems, and exploring AI  
 🛠 Currently learning C++ and experimenting with cloud‑native deployments  
 
