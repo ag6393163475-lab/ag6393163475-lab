@@ -6,7 +6,8 @@ student at Mirai School of Technology
 
 📍 Based in Delhi, India
 
-🛠 Tech Stack
+ Tech Stack
+ 
 Languages
 C C++ JavaScript TypeScript HTML5 CSS3
 
