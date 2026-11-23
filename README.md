@@ -12,9 +12,7 @@
 🧩 **Frameworks & Libraries:** ⚙️ React, ⚙️ Next.js, ⚙️ Node.js, ⚙️ Express, ⚙️ EJS  
 💾 **Databases:** 🗄️ MongoDB  
 
-## 📊 **GitHub Stats**
-🟦 **Most used language:** C++  
-*GitHub statistics (overall, top‑langs, streak) will appear here when added to your profile.*
+
 ## 📊 **GitHub Stats**
 <!-- General profile card -->
 ![Anshika’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ag6393163475-lab&show_icons=true&theme=radical)
