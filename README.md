@@ -15,6 +15,16 @@
 ## 📊 **GitHub Stats**
 🟦 **Most used language:** C++  
 *GitHub statistics (overall, top‑langs, streak) will appear here when added to your profile.*
+## 📊 **GitHub Stats**
+<!-- General profile card -->
+![Anshika’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ag6393163475-lab&show_icons=true&theme=radical)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top‑langs/?username=ag6393163475-lab&layout=compact&theme=radical)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ag6393163475-lab&theme=radical)
+
 
 ## 📫 **Connect with me**
 [LinkedIn](https://www.linkedin.com/in/anshika-gupta-a7a87b380/)
