@@ -18,7 +18,3 @@
 
 ## 📫 **Connect with me**
 [LinkedIn](https://www.linkedin.com/in/anshika-gupta-a7a87b380/)
-# 👋 Hey there! I’m **Anshika Gupta**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=850&lines=Hey+there!+👋+I%27m+Anshika+Gupta;Student+@+Mirai+School+of+Technology;Full+Stack+Developer)](https://git.io/typing-svg)
-
